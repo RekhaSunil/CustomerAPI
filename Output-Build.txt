@@ -1,0 +1,25 @@
+﻿Rebuild started...
+1>------ Rebuild All started: Project: CustomerAPI, Configuration: Release Any CPU ------
+Restored D:\Projects\M&S\CustomerAPI\CustomerAPI.csproj (in 35 ms).
+1>D:\Projects\M&S\CustomerAPI\Handlers\BasicAuthenticationHandler.cs(33,59,33,82): warning CS1998: This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.
+1>D:\Projects\M&S\CustomerAPI\Repository\General\DeviceRepository.cs(221,68,221,90): warning CS0472: The result of the expression is always 'false' since a value of type 'int' is never equal to 'null' of type 'int?'
+1>D:\Projects\M&S\CustomerAPI\Repository\General\DeviceRepository.cs(222,76,222,106): warning CS0472: The result of the expression is always 'false' since a value of type 'int' is never equal to 'null' of type 'int?'
+1>D:\Projects\M&S\CustomerAPI\Repository\General\DeviceRepository.cs(223,66,223,86): warning CS0472: The result of the expression is always 'false' since a value of type 'int' is never equal to 'null' of type 'int?'
+1>D:\Projects\M&S\CustomerAPI\Repository\General\DeviceRepository.cs(224,64,224,82): warning CS0472: The result of the expression is always 'false' since a value of type 'int' is never equal to 'null' of type 'int?'
+1>D:\Projects\M&S\CustomerAPI\Repository\General\LocationRepository.cs(122,63,122,80): warning CS0472: The result of the expression is always 'false' since a value of type 'int' is never equal to 'null' of type 'int?'
+1>D:\Projects\M&S\CustomerAPI\Repository\General\LocationRepository.cs(123,64,123,82): warning CS0472: The result of the expression is always 'false' since a value of type 'int' is never equal to 'null' of type 'int?'
+1>D:\Projects\M&S\CustomerAPI\Repository\General\LocationRepository.cs(186,63,186,80): warning CS0472: The result of the expression is always 'false' since a value of type 'int' is never equal to 'null' of type 'int?'
+1>D:\Projects\M&S\CustomerAPI\Repository\General\LocationRepository.cs(187,64,187,82): warning CS0472: The result of the expression is always 'false' since a value of type 'int' is never equal to 'null' of type 'int?'
+1>D:\Projects\M&S\CustomerAPI\Repository\General\DeviceRepository.cs(311,68,311,90): warning CS0472: The result of the expression is always 'false' since a value of type 'int' is never equal to 'null' of type 'int?'
+1>D:\Projects\M&S\CustomerAPI\Repository\General\DeviceRepository.cs(312,76,312,106): warning CS0472: The result of the expression is always 'false' since a value of type 'int' is never equal to 'null' of type 'int?'
+1>D:\Projects\M&S\CustomerAPI\Repository\General\DeviceRepository.cs(313,66,313,86): warning CS0472: The result of the expression is always 'false' since a value of type 'int' is never equal to 'null' of type 'int?'
+1>D:\Projects\M&S\CustomerAPI\Repository\General\DeviceRepository.cs(314,64,314,82): warning CS0472: The result of the expression is always 'false' since a value of type 'int' is never equal to 'null' of type 'int?'
+1>D:\Projects\M&S\CustomerAPI\Repository\General\StoreRepository.cs(121,64,121,81): warning CS0472: The result of the expression is always 'false' since a value of type 'int' is never equal to 'null' of type 'int?'
+1>D:\Projects\M&S\CustomerAPI\Repository\General\DeviceRepository.cs(384,60,384,74): warning CS0472: The result of the expression is always 'false' since a value of type 'int' is never equal to 'null' of type 'int?'
+1>D:\Projects\M&S\CustomerAPI\Repository\General\StoreRepository.cs(184,64,184,81): warning CS0472: The result of the expression is always 'false' since a value of type 'int' is never equal to 'null' of type 'int?'
+1>D:\Projects\M&S\CustomerAPI\Repository\OMS\OMSArticleMasterRepository.cs(245,74,245,99): warning CS0472: The result of the expression is always 'false' since a value of type 'int' is never equal to 'null' of type 'int?'
+1>D:\Projects\M&S\CustomerAPI\Repository\OMS\OMSArticleMasterRepository.cs(360,74,360,99): warning CS0472: The result of the expression is always 'false' since a value of type 'int' is never equal to 'null' of type 'int?'
+1>D:\Projects\M&S\CustomerAPI\Repository\OMS\OMSArticleMasterRepository.cs(392,74,392,99): warning CS0472: The result of the expression is always 'false' since a value of type 'int' is never equal to 'null' of type 'int?'
+1>CustomerAPI -> D:\Projects\M&S\CustomerAPI\bin\Release\netcoreapp3.1\CustomerAPI.dll
+1>Done building project "CustomerAPI.csproj".
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========

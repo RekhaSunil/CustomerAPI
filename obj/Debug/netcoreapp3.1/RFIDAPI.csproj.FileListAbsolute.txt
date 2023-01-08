@@ -1,0 +1,305 @@
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.exe
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.deps.json
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.runtimeconfig.json
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.runtimeconfig.dev.json
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.dll
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.pdb
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.xml
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\RFIDAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.AssemblyInfo.cs
+C:\Users\user\Desktop\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\RFIDAPI\obj\Debug\netcoreapp3.1\staticwebassets\RFIDAPI.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\RFIDAPI\obj\Debug\netcoreapp3.1\staticwebassets\RFIDAPI.StaticWebAssets.xml
+C:\Users\user\Desktop\RFIDAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\RFIDAPI.styles.css
+C:\Users\user\Desktop\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.csproj.CopyComplete
+C:\Users\user\Desktop\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.dll
+C:\Users\user\Desktop\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.xml
+C:\Users\user\Desktop\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.pdb
+C:\Users\user\Desktop\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.genruntimeconfig.cache
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.exe
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.deps.json
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.runtimeconfig.json
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.runtimeconfig.dev.json
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.dll
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.pdb
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.xml
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.AssemblyInfoInputs.cache
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.AssemblyInfo.cs
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.csproj.CoreCompileInputs.cache
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\staticwebassets\RFIDAPI.StaticWebAssets.Manifest.cache
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\staticwebassets\RFIDAPI.StaticWebAssets.xml
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\RFIDAPI.styles.css
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.RazorTargetAssemblyInfo.cache
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.csproj.CopyComplete
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.dll
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.xml
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.pdb
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.genruntimeconfig.cache
+D:\Rekha Technowave\Live Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.csproj.AssemblyReference.cache
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.exe
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.deps.json
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.runtimeconfig.json
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.runtimeconfig.dev.json
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.dll
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.pdb
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.xml
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\TECHNOWAVE\Development\RFIDAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\TECHNOWAVE\Development\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.csproj.AssemblyReference.cache
+C:\TECHNOWAVE\Development\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\TECHNOWAVE\Development\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.AssemblyInfoInputs.cache
+C:\TECHNOWAVE\Development\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.AssemblyInfo.cs
+C:\TECHNOWAVE\Development\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.csproj.CoreCompileInputs.cache
+C:\TECHNOWAVE\Development\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\TECHNOWAVE\Development\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\TECHNOWAVE\Development\RFIDAPI\obj\Debug\netcoreapp3.1\staticwebassets\RFIDAPI.StaticWebAssets.Manifest.cache
+C:\TECHNOWAVE\Development\RFIDAPI\obj\Debug\netcoreapp3.1\staticwebassets\RFIDAPI.StaticWebAssets.xml
+C:\TECHNOWAVE\Development\RFIDAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\RFIDAPI.styles.css
+C:\TECHNOWAVE\Development\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.RazorTargetAssemblyInfo.cache
+C:\TECHNOWAVE\Development\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.csproj.CopyComplete
+C:\TECHNOWAVE\Development\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.dll
+C:\TECHNOWAVE\Development\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.xml
+C:\TECHNOWAVE\Development\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.pdb
+C:\TECHNOWAVE\Development\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.genruntimeconfig.cache
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.exe
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.deps.json
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.runtimeconfig.json
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.runtimeconfig.dev.json
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.dll
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.pdb
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.xml
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\M&S\RFIDAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\M&S\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.AssemblyInfoInputs.cache
+D:\Projects\M&S\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.AssemblyInfo.cs
+D:\Projects\M&S\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.csproj.CoreCompileInputs.cache
+D:\Projects\M&S\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\M&S\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\M&S\RFIDAPI\obj\Debug\netcoreapp3.1\staticwebassets\RFIDAPI.StaticWebAssets.Manifest.cache
+D:\Projects\M&S\RFIDAPI\obj\Debug\netcoreapp3.1\staticwebassets\RFIDAPI.StaticWebAssets.xml
+D:\Projects\M&S\RFIDAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\RFIDAPI.styles.css
+D:\Projects\M&S\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.RazorTargetAssemblyInfo.cache
+D:\Projects\M&S\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.csproj.CopyComplete
+D:\Projects\M&S\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.dll
+D:\Projects\M&S\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.xml
+D:\Projects\M&S\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.pdb
+D:\Projects\M&S\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.genruntimeconfig.cache
+D:\Projects\M&S\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.csproj.AssemblyReference.cache
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.exe
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.deps.json
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.runtimeconfig.json
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.runtimeconfig.dev.json
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.dll
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.pdb
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.xml
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.csproj.AssemblyReference.cache
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.AssemblyInfoInputs.cache
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.AssemblyInfo.cs
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.csproj.CoreCompileInputs.cache
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\staticwebassets\RFIDAPI.StaticWebAssets.Manifest.cache
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\staticwebassets\RFIDAPI.StaticWebAssets.xml
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\RFIDAPI.styles.css
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.RazorTargetAssemblyInfo.cache
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.csproj.CopyComplete
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.dll
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.xml
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.pdb
+D:\Technowave Projects\M&S 03Aug21\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.genruntimeconfig.cache
+D:\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.csproj.AssemblyReference.cache
+D:\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.AssemblyInfoInputs.cache
+D:\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.AssemblyInfo.cs
+D:\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.csproj.CoreCompileInputs.cache
+D:\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.dll
+D:\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.xml
+D:\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.pdb
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.exe
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.deps.json
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.runtimeconfig.json
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.runtimeconfig.dev.json
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.dll
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.pdb
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.xml
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\RFIDAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\RFIDAPI\obj\Debug\netcoreapp3.1\staticwebassets\RFIDAPI.StaticWebAssets.Manifest.cache
+D:\RFIDAPI\obj\Debug\netcoreapp3.1\staticwebassets\RFIDAPI.StaticWebAssets.xml
+D:\RFIDAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\RFIDAPI.styles.css
+D:\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.RazorTargetAssemblyInfo.cache
+D:\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.csproj.CopyComplete
+D:\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.genruntimeconfig.cache
+E:\Interview\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.csproj.AssemblyReference.cache
+E:\Interview\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Interview\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.AssemblyInfoInputs.cache
+E:\Interview\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.AssemblyInfo.cs
+E:\Interview\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.csproj.CoreCompileInputs.cache
+E:\Interview\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Interview\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Interview\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.dll
+E:\Interview\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.xml
+E:\Interview\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.pdb
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.exe
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.deps.json
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.runtimeconfig.json
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.runtimeconfig.dev.json
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.dll
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.pdb
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\RFIDAPI.xml
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Interview\RFIDAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Interview\RFIDAPI\obj\Debug\netcoreapp3.1\staticwebassets\RFIDAPI.StaticWebAssets.Manifest.cache
+E:\Interview\RFIDAPI\obj\Debug\netcoreapp3.1\staticwebassets\RFIDAPI.StaticWebAssets.xml
+E:\Interview\RFIDAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\RFIDAPI.styles.css
+E:\Interview\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.RazorTargetAssemblyInfo.cache
+E:\Interview\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.csproj.CopyComplete
+E:\Interview\RFIDAPI\obj\Debug\netcoreapp3.1\RFIDAPI.genruntimeconfig.cache
